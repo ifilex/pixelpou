@@ -1,0 +1,6 @@
+{
+  "name": "PixelPou - Mascota Virtual Retro",
+  "description": "Juego retro de mascota virtual estilo Pou con gráficos pixel-art, hábitos diarios de cuidado para niños, minijuegos educativos, personalización y fotos compartibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
